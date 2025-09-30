@@ -101,10 +101,6 @@ Set up a ServiceNow Developer instance at https://developer.servicenow.com/.
 
 Follow the documentation or wiki provided in this repo for step-by-step setup instructions.
 
-Import update sets as described, then customize tables, fields, and business rules as needed.
-
-Start adding family and expense data to test the system.
-
 Demo
 
 To view a demo, check the Demo Video included in this repository.
